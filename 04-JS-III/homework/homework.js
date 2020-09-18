@@ -12,8 +12,8 @@ function devolverUltimoElemento(array) {
   // Devuelve el último elemento de un array
   // Tu código:
   let miArray = ["henry", 53, false, function(){ console.log("soy Henry")}];
-    var lastElem = miArray[miArray.length -1];
-    console.log(lastElem)
+    var lastElemento = miArray[miArray.length -1];
+    console.log(lastElemento)
 
 }
 
