@@ -3,6 +3,9 @@
 function devolverPrimerElemento(array) {
   // Devuelve el primer elemento de un array
   // Tu código:
+    var miArray = ["hola", 23, true, function(){ console.log("soy Henry")}]
+    var firstElem = miArray[0]
+    console.log(firstElem) 
 }
 
 function devolverUltimoElemento(array) {
